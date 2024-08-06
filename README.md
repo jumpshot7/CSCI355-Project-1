@@ -41,6 +41,7 @@ The use of Bootstrap ensures that the application is responsive and works well o
 ### Clone the Repository
 ```bash
 git clone [repository-url]
+'''
 
 
 
